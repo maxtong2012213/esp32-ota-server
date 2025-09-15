@@ -1,4 +1,4 @@
 {
   "version": "1.1.0",
-  "file": "/firmware/smart_clock_v1.1.0.bin"
+  "url": "https://github.com/maxtong2012213/esp32-ota-server/raw/main/firmware/smart_clock_v1.1.0.bin"
 }
